@@ -11,3 +11,13 @@ __pycache__/
 # - Data files: *.csv, *.parquet, *.xlsx, data/raw/
 # - Secrets: .env
 # - OS artifacts: .DS_Store
+.venv/
+__pycache__/
+.env
+*.key
+*.csv
+*.parquet
+*.xlsx
+data/raw/
+.DS_Store
+.ipynb_checkpoints/
